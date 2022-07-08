@@ -1,0 +1,66 @@
+.middleContainer{
+    padding:30px;
+}
+.leftmiddleheadingone{
+position:relative;
+text-align: left;
+overflow: hidden;
+line-height: 1em;
+
+}
+.leftheadingmiddle {
+    position:relative;
+    top:80px;
+}
+.right{
+    width:450px;
+    height:450px;
+    position:relative;
+    left:500px;
+    top:-250px;
+}
+.purple{
+    width:100%;
+    height:500px;
+    background-color: rgb(70, 53, 86);
+    border-top-right-radius: 85px;
+    border-bottom-left-radius: 85px;
+    position: relative;
+    top:-120px;
+}
+
+.phones{
+    position:relative;
+    left:-500px;
+    top:-80px;
+}
+.headingmiddletwo{
+    color:white;
+    font-size: 3rem;
+    position:relative;
+    top:160px;
+    left:180px;
+}
+.middleparatwo{
+    color:white;
+    position:relative;
+    font-size: 1rem;
+    left:260px;
+    top:150px;
+}
+.latop{
+    width:600px;
+    height:600px;
+    position:relative;
+    object-fit: contain;
+    left:-500px;
+
+}
+.rightmiddleheadingone{
+    text-align: left;
+    position: relative;
+    top:-450px;
+    left:700px;
+    color:rgb(70, 53, 86)
+}
+
